@@ -1,0 +1,12 @@
+.car-meta-block{
+    display: flex;
+}
+
+.car-meta-block .field-color{
+    width: 180px;
+    margin-right: 15px; 
+}
+
+.car-meta-block .field-color button{
+    width: 100%;
+}
